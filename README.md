@@ -7,6 +7,7 @@ University students often face challenges when it comes to traveling home during
 To address this problem, we have developed a University Seat Booking App. This app provides a platform for university students to reserve seats for traveling to their hometowns or other destinations during holidays or weekends. It offers a seamless and convenient booking process, ensuring that students can travel comfortably.
 
 ## 3.	Responsive User Interfaces
+
 ![Untitled design](https://github.com/Godhawari-khatri/Muet_seatbooking_flutter_App/assets/93369569/a3d5c0d2-0aaa-4e9e-8b32-95ff67699fd4)
 
 
