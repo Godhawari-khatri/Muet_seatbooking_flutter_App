@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58985854033",
+    "project_id": "bookingfirebase-8f23c",
+    "storage_bucket": "bookingfirebase-8f23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58985854033:android:d9bcb48bd876b91e4f3470",
+        "android_client_info": {
+          "package_name": "com.example.online_seat_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGqUKIHlvyeS-jjYWelvFsz0GurKLZec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
